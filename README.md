@@ -15,7 +15,7 @@ Provide step by step instructions on how to install the project locally.
         
         sudo apt install screen
         
------ python  Dependencies :
+        ----- python  Dependencies :
 
         1) pip install python-telegram-bot
         
