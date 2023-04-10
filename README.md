@@ -11,7 +11,7 @@ Provide step by step instructions on how to install the project locally.
 
 1) install screen on ur linux distro 
 ----- Terminal : 
-        sudo apt update
+        sudo apt update 
         sudo apt install screen
         
 ----- python  Dependencies :
